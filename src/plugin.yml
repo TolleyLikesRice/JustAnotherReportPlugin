@@ -1,0 +1,9 @@
+name: JustAnotherReportPlugin
+version: 1.0.0
+author: Tolley
+main: tolley.jarp.Main
+api-version: 1.13
+commands:
+  report:
+    description: Report someone
+    usage: /report
